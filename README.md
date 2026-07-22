@@ -6,7 +6,7 @@ This tool is designed to analyze an NTFS Master File Table (MFT) and generate ta
 
 Please be aware that interacting with failing or physically degraded storage media **carries inherent risks**; any read attempts, mechanical seeking, or prolonged operation will probably **accelerate hardware degradation**, risking **sudden and permanent drive failure** and **irreversible data loss**.
 
-This software is provided "as-is" under the WTFPL License, without warranty or guarantee of any kind, express or implied. The author assumes no liability for further data loss or hardware damage. Use these tool at your own risk. If the data is of a vital importance, the best course of action is to ask for the service of a professional data recovery company.
+This software is provided "as-is" under the WTFPL License, without warranty of any kind, express or implied. The author assumes no liability for further data loss or hardware damage. Use these tool at your own risk. If the data is of a vital importance, the best course of action is to ask for the service of a professional data recovery company.
 
 
 ## Find MFT of MFTMirror offset
