@@ -1,4 +1,13 @@
-# Usage
+# NTFS2ddrescue
+
+## Introduction
+
+This tool is designed to analyze an NTFS Master File Table (MFT) and generate targeted domain mapfiles for GNU ddrescue, enabling the surgical recovery of specific files and directory structures rather than cloning entire volumes. This is meant to improve recovery odds when dealing with a dying disk by avoiding stressing the disk as much as possible.
+
+Please be aware that interacting with failing or physically degraded storage media **carries inherent risks**; any read attempts, mechanical seeking, or prolonged operation will probably **accelerate hardware degradation**, risking **sudden and permanent drive failure** and **irreversible data loss**.
+
+This software is provided "as-is" under the WTFPL License, without warranty or guarantee of any kind, express or implied. The author assumes no liability for further data loss or hardware damage. Use these tool at your own risk. If the data is of a vital importance, the best course of action is to ask for the service of a professional data recovery company.
+
 
 ## Find MFT of MFTMirror offset
 
