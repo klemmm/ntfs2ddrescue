@@ -60,7 +60,7 @@ Finished
 
 ```
 $ ./list_files.py -o rescue.lst rescue.bin rescue.rec
-Wrote 56908 files to rescue.lst
+Wrote 1163 files to rescue.lst
 $ cp rescue.lst selected.lst
 ```
 
