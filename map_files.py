@@ -121,7 +121,7 @@ def main():
     parser.add_argument(
         "--merge-gap",
         type=parse_size,
-        default="256k",
+        default="2048k",
         metavar="SIZE",
         help="Merge regions separated by a gap no larger than this into "
         "a single ddrescue block, trading a bit of extra reading for "
