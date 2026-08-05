@@ -1,0 +1,27 @@
+title: "NTFS2DDRescue"
+author: "klemm"
+
+theme: minima
+
+# URL GitHub Pages (à adapter)
+url: "https://klemmm.github.io"
+baseurl: "/ntfs2ddrescue"
+
+# Langue
+lang: fr
+
+# Affichage du flux
+minima:
+  skin: classic
+
+# Markdown
+markdown: kramdown
+
+# Extensions utiles
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Liens du menu (optionnel)
+header_pages:
+  - index.md
