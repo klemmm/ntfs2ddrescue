@@ -3,8 +3,6 @@ layout: default
 title: ""
 ---
 
-# The "Reverse Mountain Bike Transform": rescuing a dying drive
-
 ## First, a warning
 
 Attempting to recover data from a physically dying drive **carries significant risk**. Every read, every operation, every second the drive spends powered on carries a real risk of **making its condition worse**, and of causing **irreversible data loss**.
