@@ -1,3 +1,8 @@
+---
+layout: default
+title: ""
+---
+
 # The "Reverse Mountain Bike Transform": rescuing a dying drive
 
 ## First, a warning
